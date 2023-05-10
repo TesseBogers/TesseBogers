@@ -12,5 +12,5 @@
 |-----:|-----------|
 | JavaScript| Java|
 | React.js | Springboot|
-| HTML & CSS | MySQL |
+| HTML & CSS | MySQL/Mariadb/Mongodb |
 
