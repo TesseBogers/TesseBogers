@@ -14,6 +14,9 @@
 | React.js | Springboot|
 | HTML & CSS | MySQL/Mariadb/Mongodb |
 
-https://paperrockscissorslizardspock.netlify.app/
-https://weathertb.netlify.app/
-https://pomodorotb.netlify.app/
+</br>
+
+- https://paperrockscissorslizardspock.netlify.app/
+- https://weathertb.netlify.app/
+- https://pomodorotb.netlify.app/
+</br>
